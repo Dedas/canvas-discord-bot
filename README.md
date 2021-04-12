@@ -1,6 +1,8 @@
 # canvas-discord-bot
-## As the project has grown, we have chosen to move it to an organization.
-## Link: https://github.com/Grupp-17/canvas-discord-bot
+<p>
+  <h3>As the project has grown, we have chosen to move it to an organization.</h3>
+  <h3>Link: https://github.com/Grupp-17/canvas-discord-bot</h3>
+</p>
 
 <br />
 <p align="center">
